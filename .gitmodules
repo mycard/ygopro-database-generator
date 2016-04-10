@@ -1,0 +1,6 @@
+[submodule "ygopro-database"]
+	path = ygopro-database
+	url = git@github.com:mycard/ygopro-database.git
+[submodule "ygopro-database-raw"]
+	path = ygopro-database-raw
+	url = git@github.com:mycard/ygopro-database-raw.git
